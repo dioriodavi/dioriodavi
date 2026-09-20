@@ -4,7 +4,7 @@
 
 Estudante do Ensino Médio integrado ao curso Técnico em Desenvolvimento de Sistemas na Etec Rodrigues de Abreu, em Bauru - SP.
 
-Atualmente, estou cursando o 2º ano e aprofundando meus conhecimentos em programação, principalmente na linguagem Java e suas ferramentas. Também possuo conhecimentos em HTML e CSS, além de conhecimentos em C, Python e JavaScript, com foco em desenvolvimento mobile utilizando React Native.
+Atualmente, estou cursando o 2º ano e aprofundando meus conhecimentos em programação, principalmente na linguagem Java e suas ferramentas. Também possuo conhecimentos em HTML, CSS e PHP, além de conhecimentos em C, Python e JavaScript, com foco em desenvolvimento mobile utilizando React Native.
 
 Tenho interesse em desenvolvimento de software e busco aprimorar minhas habilidades por meio de projetos práticos, estudos e novos desafios na área de tecnologia.
 
@@ -20,6 +20,7 @@ Tenho interesse em desenvolvimento de software e busco aprimorar minhas habilida
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
