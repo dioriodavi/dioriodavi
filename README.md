@@ -1,16 +1,38 @@
-## Hi there 👋
+# Davi Diorio
 
-<!--
-**dioriodavi/dioriodavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Fullstack
 
-Here are some ideas to get you started:
+Estudante do Ensino Médio integrado ao curso Técnico em Desenvolvimento de Sistemas na Etec.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou aprofundando meus conhecimentos em programação, principalmente na linguagem Java e suas ferramentas. Também possuo conhecimentos em HTML e CSS, além de conhecimentos básicos em C, Python e JavaScript, com interesse em desenvolvimento mobile utilizando o framework React Native.
+
+Tenho interesse em desenvolvimento de software e busco aprimorar minhas habilidades por meio de projetos práticos, estudos e novos desafios na área de tecnologia.
+
+### Redes
+
+Instagram | Email | GitHub | Letterboxd
+
+### Tecnologias
+
+Java
+HTML5
+CSS3
+Python
+C
+JavaScript
+Spring
+React Native
+
+### Ferramentas e Softwares
+
+Visual Studio Code
+IntelliJ IDEA
+GitHub Desktop
+Apache NetBeans
+Microsoft Access
+phpMyAdmin
+Canva
+
+### Atualmente estudando
+
+Java, Spring, desenvolvimento web, desenvolvimento mobile e banco de dados.
